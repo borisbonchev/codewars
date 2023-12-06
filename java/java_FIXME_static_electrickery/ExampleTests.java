@@ -1,4 +1,4 @@
-package FIXME_static_electrickery;
+package java_FIXME_static_electrickery;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;

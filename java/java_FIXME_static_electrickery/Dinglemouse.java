@@ -1,4 +1,4 @@
-package FIXME_static_electrickery;
+package java_FIXME_static_electrickery;
 
 public class Dinglemouse {
 
